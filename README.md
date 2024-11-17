@@ -26,4 +26,3 @@ Follow these steps to get the project up and running on your local machine:
 
 ```bash
 git clone https://github.com/sobhanSadeghi/Movie-Data-Analysis-and-Visualization.git
-cd movie-analysis
