@@ -25,5 +25,5 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movie-analysis.git
+git clone https://github.com/sobhanSadeghi/Movie-Data-Analysis-and-Visualization.git
 cd movie-analysis
